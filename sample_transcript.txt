@@ -1,0 +1,6 @@
+We reviewed the API progress.
+Frontend is blocked on authentication.
+We agreed to continue with the existing backend setup.
+Next meeting is scheduled for Friday.
+
+
