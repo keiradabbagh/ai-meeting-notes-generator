@@ -1,4 +1,4 @@
-print("analyzer.py loaded")
+
 
 def analyze_transcript(text):
     summary = "This meeting discussed progress updates, blockers, and next steps."

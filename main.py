@@ -1,4 +1,4 @@
-print("main.py running")
+
 
 from analyzer import analyze_transcript
 
