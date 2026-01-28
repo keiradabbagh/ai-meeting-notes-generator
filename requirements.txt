@@ -1,4 +1,3 @@
-#t
-his project uses only Python standard library modules.
+#this project uses only Python standard library modules.
 #no external dependencies required.
 
